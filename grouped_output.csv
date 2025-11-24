@@ -1,0 +1,514 @@
+group_id,group_name,member_id,member_name
+1,Security & Safety,1,explosive detection
+2,Computed,2,computed tomography
+3,Security & Safety,3,checked baggage screening
+3,Security & Safety,8,passenger checkpoint screening
+3,Security & Safety,9,cargo screening
+4,Security & Safety,4,homeland security
+5,Security & Safety,5,airport security
+6,Technology,6,advanced technology
+6,Technology,37,Technology
+7,Technology,7,software engineering
+7,Technology,25,Software Development
+7,Technology,42,Software Developmen
+7,Technology,53,Application development
+7,Technology,292,app development
+8,Security & Safety,10,TSA approved screening equipment
+9,Brand,11,brand
+9,Brand,18,branding
+9,Brand,80,Brand Design
+9,Brand,356,Brand Identity
+10,Design,12,design
+10,Design,30,web design
+10,Design,83,Graphic Design
+10,Design,85,Creative Design
+10,Design,479,design and creative
+11,Retail & Shopping,13,marketing
+11,Retail & Shopping,58,Internet Marketing
+11,Retail & Shopping,200,digital marketing
+11,Retail & Shopping,201,online marketing
+11,Retail & Shopping,223,Social Media Marketing
+12,Technology,14,digital
+12,Technology,400,Digital media
+12,Technology,409,Digital Learning
+13,Strategy,15,strategy
+13,Strategy,213,Design Strategy
+14,Insight,16,insight
+15,Research,17,research
+15,Research,288,Research and analysis
+16,Technology,19,copywriting
+17,Technology,20,positioning
+18,Saas,21,SaaS
+19,Retail & Shopping,22,B2B
+19,Retail & Shopping,289,B2B Marketing
+20,Technology,23,Packaging Design Software
+21,Autocad,24,AutoCAD
+22,Ipos,26,IPO's on London Stock Exchange
+22,Ipos,27,IPO's on AIM
+23,Preipo,28,Pre-IPO fundraising for IPO costs
+24,Internet,29,internet
+25,Development,31,web development
+25,Development,52,Website development
+25,Development,239,WEB and Mobile Development
+25,Development,260,Front-end development
+25,Development,267,Wordpress development
+25,Development,280,Mobile Development
+26,Retail & Shopping,32,search engine marketing
+27,Social,33,social media
+27,Social,204,instagram
+28,Effects,34,Visual Effects
+28,Effects,393,special effects
+29,Creative,35,Creative Direction
+30,Innovation,36,Innovation
+31,Immersive,38,Immersive Experiences
+32,Education,39,Machine Learning
+33,Transportation,40,Animation
+33,Transportation,108,3D animation
+34,Ai,41,Ai
+34,Ai,450,Artificial Intelligence
+35,Technology,43,Digital Skills
+36,Coding,44,Coding
+37,Technology,45,Creativity
+37,Technology,339,Creative
+38,Education,46,Training and Development
+38,Education,66,Training
+38,Education,214,Learning & Development
+38,Education,411,Management Training
+39,Technology,47,Social Mobility
+40,Technology,48,Diversity
+40,Technology,51,Diverse
+41,Apprenticeships,49,Apprenticeships
+42,Talent,50,Talent
+42,Talent,176,Talent development
+43,Technology,54,IT Consulting
+43,Technology,73,IT Services
+43,Technology,144,IT support
+43,Technology,243,IT solutions
+43,Technology,321,Customised IT solutions
+44,Technology,55,Computer programming
+44,Technology,408,Computer programming activities
+45,Seo,56,SEO
+45,Seo,266,Search engine optimisation
+46,Ecommerce,57,Ecommerce
+46,Ecommerce,134,E-Commerce
+47,Technology,59,DigitalTransformation
+47,Technology,277,Digital Transformation
+48,General,60,CRM
+49,Retail & Shopping,61,MarketingAutomation
+50,Technology,62,TechnicalSEO
+51,Studio,63,TV studio hire
+52,Hire,64,Space hire
+52,Hire,68,event space
+52,Hire,69,conference space
+52,Hire,497,Conference venue hire
+52,Hire,498,Exhibition venue hire
+52,Hire,499,Wedding venue hire
+52,Hire,500,Dinner venue hire
+52,Hire,501,Awards ceremony venue hire
+52,Hire,502,Corporate event venue hire
+52,Hire,504,Fashion show venue hire
+53,Technology,65,Training facilities hire
+54,Film,67,film location
+55,Meeting,70,meeting room
+55,Meeting,359,Meeting Rooms
+56,Technology,71,production facilities
+56,Technology,340,Production
+57,Technology,72,editing suites
+58,Technology,74,Computer consultancy activities
+58,Technology,274,Computer consultancy
+59,Transportation,75,Truck Transportation
+60,Transportation,76,Freight transport by road
+61,Technology,77,Recruitment
+61,Technology,333,Talent Acquisition
+62,Retail & Shopping,78,Sales
+62,Retail & Shopping,378,Wine Sales
+63,Hr,79,HR
+63,Hr,413,Human Resources
+64,Design,81,Design for Print
+65,Services,82,Print Services
+66,Logo,84,Logo Design
+67,Stationery,86,Stationery Design
+68,Services,87,Gas services
+68,Services,88,Heating services
+68,Services,89,Boiler services
+69,Home,90,Home insulation
+70,Services,91,Renewable energy services
+70,Services,95,Photovoltaic (PV) services
+71,Plumbing,92,Plumbing
+72,Heat,93,Heat installation
+73,Technology,94,Air-conditioning installation
+74,Boiler,96,boiler failure rescue
+75,Breakdown,97,car breakdown rescue
+76,Services,98,lost luggage assistance
+77,Technology,99,technology troubleshooting
+78,Services,100,personal rescue service
+79,Nongeo,101,Non-Geo Phone Numbers
+80,Operations,102,Online Call Management
+81,Industry,103,Industry Leading Rebates
+82,Numbers,104,0800 Numbers
+82,Numbers,105,0844 Numbers
+82,Numbers,107,0845 Numbers
+83,Numbers,106,03 Numbers
+84,Product,109,product rendering
+85,Technology,110,CGI images
+85,Technology,128,Computer Generated Imagery
+86,Projects,111,VR and AR projects
+87,Services,112,consultancy
+87,Services,335,Consulting Services
+88,Technology,113,EdTech
+88,Technology,114,Educational Technology
+89,Technology,115,attendance monitoring
+90,Education,116,learning management
+91,Education,117,higher education
+92,Education,118,education
+93,Mortgages,119,Mortgages Advice
+94,Loans,120,Secured Loans
+94,Loans,140,Unsecured loans
+95,Mortgages,121,Buy to Let Mortgages
+96,First,122,First Time Buyer Mortgages
+97,Right,123,Right to Buy
+98,Insurance,124,Insurance
+99,Google,125,Google street view tours
+100,Corporate,126,Corporate Video
+100,Corporate,427,Corporate photography
+100,Corporate,510,Videos - Corporate
+101,Technology,127,Virtual reality video
+102,Technology,129,Virtual reality production
+103,Bespoke,130,Bespoke 360 tours
+104,Technology,131,Virtual reality training software
+105,Audiovisual,132,Audiovisual Communication
+106,Technology,133,Information Technology
+107,Mobile,135,Mobile
+108,General,136,PPC
+109,Retail & Shopping,137,Inbound Marketing
+110,Retail & Shopping,138,Email Marketing
+111,Finance,139,Finance solutions
+112,Technology,141,Working capital loans
+113,Commercial,142,Commercial mortgages
+114,Services,143,Managed services
+114,Services,259,Managed support services
+115,Voip,145,VoIP telephony
+116,Technology,146,Computer hardware supplies
+117,Technology,147,Business Continuity
+118,Technology,148,Cloud Services
+119,Security & Safety,149,Cybersecurity
+120,Compliance,150,Compliance
+121,General,151,ADC
+122,General,152,DAC
+123,General,153,PLL
+124,Technology,154,Data Converters
+125,Conferences,155,Conferences
+126,Technology,156,Exhibitions
+127,Thought,157,Thought leadership
+128,Education,158,Learning
+129,Technology,159,Networking
+130,Independent,160,Independent Record Label
+131,Operations,161,Music Management
+131,Operations,164,Music Publishing
+132,Retail & Shopping,162,Online Stores
+133,Sound,163,Sound Recording
+134,Operations,165,Crisis & Risk Management
+135,Operations,166,Branding & Reputation Management
+136,Employee,167,Employee Engagement & Labor Communications
+136,Employee,216,Employee Engagement
+137,Technology,168,Digital & Social Marketing
+138,Relations,169,Media Relations
+138,Relations,492,Public relations
+139,Technology,170,Executive Positioning
+140,Transportation,171,Business-to-Business Communications
+141,Technology,172,Citizenship & Corporate Social Responsibility
+142,Content,173,Content Creation
+142,Content,226,Content Marketing
+142,Content,317,Content Production
+142,Content,318,Media Production
+143,Video,174,Video Production
+143,Video,222,Videography
+144,Paid,175,Paid internship programmes
+145,Technology,177,Diversity and inclusion consulting
+146,Mentoring,178,Mentoring
+147,Technology,179,Data-driven insights
+148,Services,180,Career readiness support
+149,Kinesiology,181,Kinesiology
+150,Physiotherapy,182,Physiotherapy
+151,Chiropractor,183,Chiropractor
+152,Osteopathy,184,Osteopathy
+153,Personnel,185,Sports Clubs & Teams
+154,First,186,First Aid
+155,Science,187,Science Festivals
+156,Education,188,Educational Productions
+157,Luxury,189,Luxury garments
+158,Hoodies,190,Hoodies
+159,Tees,191,Tees
+160,Hats,192,Hats
+161,Retail & Shopping,193,Retail sale of clothing in specialised stores
+162,Leadership,194,Leadership Inclusion
+163,Beauty,195,Beauty Industry
+164,Development,196,Professional Development
+164,Development,334,Career Development
+165,Retail & Shopping,197,Retail sale in commercial art galleries
+166,Advertsing,198,advertsing
+166,Advertsing,338,advertising
+166,Advertsing,366,Adverts
+167,General,199,ads
+168,Google,202,google
+169,Facebook,203,facebook
+170,Meta,205,meta
+171,Retail & Shopping,206,Residential sales
+172,Lettings,207,Lettings
+173,Operations,208,Property management
+174,Estate,209,Real estate agencies
+174,Estate,375,estate agency
+175,Real,210,Real estate
+175,Real,444,Real estate investment
+176,Research,211,UX research
+177,Technology,212,Qualitative Research
+178,Upskilling,215,Upskilling
+179,Genai,217,GenAI Adoption
+180,Education,218,Lean Six Sigma Training
+181,Transportation,219,Business Improvement
+182,Operations,220,Change Management
+183,Photography,221,E-commerce photography
+183,Photography,429,Product Photography
+184,Technology,224,Blogging
+184,Technology,225,Blog Writing
+185,Operations,227,Social Media Management
+186,Technology,228,Social Media Growth
+186,Technology,466,Digital Growth
+187,Blog,229,Blog Articles
+188,Retail & Shopping,230,LinkedIn Marketing
+189,Medical & Healthcare,231,Hospitality
+190,Hospitality,232,Hotels and similar accommodation
+191,Library,233,Library
+192,Food & Beverage,234,All-day dining
+193,Food & Beverage,235,Private dining
+194,Food & Beverage,236,Cocktail bar
+195,Live,237,Live music entertainment
+196,Technology,238,Gym facilities
+196,Technology,285,Fitness facilities
+197,Devops,240,DevOps
+198,Design,241,UX/UI Design
+198,Design,264,User experience design
+199,Startups,242,MVP for Startups
+200,Technology,244,Computer Games
+201,Technology,245,Publishing of computer games
+202,Cost,246,Cost Control
+203,Operations,247,Contract Administration
+204,Technology,248,ITT (Invitation to tender)
+205,Technology,249,Technical Drawings
+205,Technology,250,Construction Drawings
+206,Technology,251,Measured Site Surveys
+207,Planning,252,Planning Applications
+208,Technology,253,2d and 3d Architectural Visualisation
+209,Design,254,Design Detail Development
+210,Operations,255,Construction Management
+210,Operations,275,Project Management
+210,Operations,276,Programme Management
+210,Operations,388,Hotel Project Management
+211,Implementation,256,SAN and NAS implementation
+212,Technology,257,Data Storage & Data Management Solutions
+213,Back,258,Back up and recovery
+214,Backend,261,Back-end development
+215,Technology,262,Full stack development
+215,Technology,314,Full Stack Data Science
+216,Wireframing,263,Wireframing
+217,Responsive,265,Responsive design
+218,Hospitality,268,online travel
+219,Technology,269,travel writing
+220,Hospitality,270,travel inspiration
+221,Honeymoons,271,honeymoons
+222,Short,272,short breaks
+223,Technology,273,Outsourced data management
+224,Agile,278,Agile Coaching
+224,Agile,283,Agile
+225,Product,279,Product Development
+226,Technology,281,Data Mesh
+227,Delivery,282,Delivery
+228,Technology,284,Architectural activities
+229,Technology,286,Wellness and Fitness Services
+230,Employer,287,Employer branding
+231,Retail & Shopping,290,corporate communications
+231,Retail & Shopping,414,Communications
+231,Retail & Shopping,478,marketing communications
+232,Storytelling,291,storytelling
+233,Breast,293,Breast
+234,Dermatology,294,Dermatology
+235,Sports,295,Sports Injury
+236,Vascular,296,Vascular
+237,Gilmore,297,Gilmore Groin
+238,Hernia,298,Hernia
+239,Medical & Healthcare,299,Women's Health
+240,Rectal,300,Rectal
+241,Xray,301,X-ray and Imaging
+242,Mammography,302,Mammography
+243,Technology,303,Self storage
+243,Technology,309,Storage Units
+244,Packaging,304,Packaging
+245,Hire,305,Van hire
+246,Storage,306,Storage
+247,Boxes,307,Boxes
+248,Space,308,Space
+249,Technology,310,Data Analytics
+249,Technology,315,Financial Analytics
+250,Technology,311,HR Analytics
+251,Transportation,312,Business Analysis
+252,Technology,313,Data Engineering
+253,Scrum,316,Scrum Master
+254,Motion,319,Motion picture production
+255,Television,320,Television programme production
+256,Technology,322,IT solutions for non-profit or public services
+257,Accountants,323,Chartered Accountants
+257,Accountants,324,Accountants
+258,Xero,325,Xero Accountants
+259,Quickbooks,326,QuickBooks Accountants
+260,Operations,327,Payroll Management
+261,Technology,328,Making Tax Digital
+262,Technology,329,Audit & Assurance
+263,Transportation,330,Business Management
+264,Corporate,331,Corporate Finance
+265,General,332,My on FD
+266,Print,336,print
+267,Web,337,web
+267,Web,346,Web apps
+268,Sound,341,Sound
+269,Wordpress,342,WordPress
+269,Wordpress,345,WooCommerce
+270,General,343,PHP
+271,Mysql,344,MySQL
+272,General,347,Vue
+273,React,348,React
+273,React,422,React.js
+274,Technology,349,Identity and Access Management
+275,Single,350,Single Sign On
+276,Technology,351,Entitlement Management and Authorisation
+277,Technology,352,Software License Management
+277,Technology,355,Software Licensing
+278,Technology,353,Software Monetization
+279,Access,354,Access Control
+280,Video,357,Video
+280,Video,362,Music Video
+280,Video,363,Fashion Video
+281,Services,358,Serviced Offices
+282,Office,360,Office Space
+283,Unbranded,361,Unbranded Prestgious W1 address
+284,Branded,364,Branded Content
+285,Commericals,365,Commericals
+286,Documentaries,367,Documentaries
+287,Ddos,368,DDoS Protected Hosting
+288,Managed,369,Managed VPS Hosting
+288,Managed,372,Managed Dedicated Servers
+289,Cpanel,370,cPanel Shared Hosting
+290,Reseller,371,Reseller Hosting
+291,Semidedicated,373,Semi-Dedicated Hosting
+292,Domains,374,and Domains & SSL Certificates
+293,Retail & Shopping,376,Wine Branding
+293,Retail & Shopping,379,Wine Marketing
+294,Food & Beverage,377,Beverage Manufacturing
+295,Wine,380,Wine Production
+296,Equipment,381,Event production equipment
+296,Equipment,396,Event Production
+297,Appliances,382,Appliances
+298,Electrical,383,Electrical
+299,Electronics,384,Electronics Manufacturing
+300,Wholesale,385,Wholesale of electrical household appliances
+301,Hospitality,386,Group Travel
+301,Hospitality,387,Hotels for Groups
+301,Hospitality,389,Tailored Group Stays
+302,Technology,390,Creative use of event technologies
+303,Lighting,391,Lighting Hire
+304,Sound,392,Sound Hire
+305,Operations,394,Stage management
+306,Technology,395,Technical Management
+307,Equipment,397,Equipment Hire
+308,Rigging,398,Rigging Hire
+309,Stage,399,Stage Hire
+310,Media,401,Online media delivery
+310,Media,402,Packaged media delivery
+311,Drmprotected,403,DRM-protected downloads
+312,Robotics,404,Robotics development
+313,Tile,405,Tile grouting robot
+314,Education,406,Simulation and reinforcement learning
+315,Technology,407,Hardware design iteration
+316,Education,410,Micro Learning
+317,Operations,412,People Management
+318,Appointment,415,Appointment Scheduling
+319,Hospitality,416,Online Booking
+320,Technology,417,Small Business Software
+321,Technology,418,Enterprise Software
+322,Html,419,HTML / CSS
+323,Javascript,420,JavaScript
+324,Operations,421,Content Management
+325,General,423,AWS
+326,Photography,424,Photography
+327,Photography,425,Event photography
+327,Photography,431,Party Photography
+328,Lifestyle,426,Lifestyle photography
+329,Commercial,428,Commercial Photography
+330,Photography,430,Pet Photography
+331,Technology,432,Portrait Photography
+332,Prheadshot,433,PR/Headshot Photography
+333,Banking,434,banking transformation
+334,Core,435,core banking
+335,Technology,436,cloud-native
+336,Technology,437,digital banking
+337,Equipment,438,Single cell tools
+338,Equipment,439,Spatial biology tools
+339,Technology,440,In situ tools
+340,Technology,441,Research and experimental development on biotechnology
+341,Technology,442,Early stage technology investment
+342,Facilities,443,Company building
+343,Private,445,Private debt
+344,Advisory,446,Advisory mandates
+345,Medical & Healthcare,447,Diagnostics
+346,Technology,448,Biotechnology
+347,Cervical,449,Cervical Cancer
+348,Computational,451,Computational Biology
+349,Human,452,Human Papillomavirus
+350,Technology,453,MedTech
+350,Technology,455,HealthTech
+351,Technology,454,FemTech
+352,Podcasting,456,podcasting
+352,Podcasting,457,podcasts
+353,Sponsorship,458,sponsorship
+354,Patreon,459,patreon
+355,Live,460,live
+355,Live,507,Live Events
+356,Retail & Shopping,461,merchandise
+357,Technology,462,Charity
+358,Fundraising,463,Fundraising
+359,Medical & Healthcare,464,Healthcare
+360,Campaigns,465,Campaigns
+361,Early,467,EARLY YEARS
+362,Childcare,468,CHILDCARE
+363,Medical & Healthcare,469,NURSERY
+364,Creche,470,CRECHE
+365,Eyfs,471,EYFS
+366,Personnel,472,STAFFING AGENCY
+367,Technology,473,TEMP RECRUITMENT
+368,Permanent,474,PERMANENT JOBS
+369,Events,475,events
+370,Technology,476,fitness
+371,General,477,PR
+372,Food & Beverage,480,Licensed restaurants
+373,Food & Beverage,481,Fine dining
+374,Tasting,482,Tasting menus
+375,Security & Safety,483,Security Systems installation
+376,Security & Safety,484,Security systems service activities
+377,Security & Safety,485,Security
+378,Investigations,486,Investigations
+379,Technology,487,Commercial Locksmiths
+380,Technology,488,Auto Locksmiths
+381,Technology,489,Safe Engineers
+382,Technology,490,Domestic Locksmiths
+383,Technology,491,Master Key Suites
+384,Media,493,Media
+385,Services,494,Creative agency services
+386,Journalism,495,Journalism
+387,Technology,496,Letting and operating of conference and exhibition centres
+388,Filming,503,Filming location hire
+389,Postproduction,505,Post-production
+390,Technology,506,Editing & Grading
+391,Technology,508,Digital/Online Packages
+392,Filming,509,Filming - Short/Features
+393,Retail & Shopping,511,Luxury Boutique Hotel
+394,Hospitality,512,5 Star Hotel
+395,Services,513,Excellent Concierge Service

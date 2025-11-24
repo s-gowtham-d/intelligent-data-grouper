@@ -1,0 +1,47 @@
+{
+    "name": "intelligent-data-grouper",
+    "version": "1.0.0",
+    "description": "CLI tool to intelligently group data using Gemini AI and vector embeddings",
+    "main": "src/index.js",
+    "type": "module",
+    "bin": {
+        "group-data": "./src/cli.js"
+    },
+    "scripts": {
+        "start": "node src/cli.js",
+        "process": "node src/cli.js process",
+        "process:large": "NODE_OPTIONS='--max-old-space-size=8192' node src/cli.js process",
+        "process:condensed": "node src/cli.js process --format condensed",
+        "process:detailed": "node src/cli.js process --format detailed",
+        "process:all": "node src/cli.js process --format all",
+        "validate": "node src/cli.js validate",
+        "config": "node src/cli.js config",
+        "clear-cache": "rm -rf .cache/embeddings",
+        "test": "node --test"
+    },
+    "keywords": [
+        "data-grouping",
+        "ai",
+        "gemini",
+        "clustering",
+        "cli"
+    ],
+    "author": "gowtham<gowthamselvam809@gmail.com>",
+    "license": "GPL-3.0-only",
+    "dependencies": {
+        "@google/generative-ai": "^0.21.0",
+        "chalk": "^5.6.2",
+        "commander": "^12.1.0",
+        "csv-parser": "^3.2.0",
+        "csv-writer": "^1.6.0",
+        "dotenv": "^16.6.1",
+        "js-levenshtein": "^1.1.6",
+        "ora": "^8.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.57.1"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
